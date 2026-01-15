@@ -1,4 +1,4 @@
-## Hi there! I'm Enzo, a front-end web developer and now an aspairing iOS engineer
+## Hi there! I'm Enzo, a front-end software engeneer
 <div align="center">
   <a href="https://github.com/enzorossetto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzorossetto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
